@@ -18,3 +18,6 @@ On 2026-10-22 eight varied drafts in week-2026-10-22 were visibly verified in th
 - Use Solar Hijri (Jalali) dates in the admin and visible date labels, with Asia/Tehran times. Keep machine storage ISO Gregorian for scheduling.
 - Prepare English text alongside every Persian article. Include en: {title,excerpt,category,takeaway,cover:{alt,caption},sections:[{heading,paragraphs}]} with matching section counts. Both languages share draft/approval/schedule status. No paid translation service.
 - v7.4.8 update adds separate article/weekly/gallery views, trash and restore, English pages, caption cleanup and Jalali input. It is prepared, not yet confirmed installed. Do not claim deployment until verified.
+
+## Article depth for future weeks (2026-10-23)
+Make future patient education articles moderately more detailed: aim for about 4–6 minutes of useful reading, roughly 500–800 Persian words when the topic warrants it, with equivalent depth in English. Explain the issue and likely causes, include clear practical examples (never invented personal patient stories), useful care steps, common mistakes and when dental assessment is appropriate. Use short sections and the established natural conversational tone; avoid repetition or padding. Keep card excerpts brief. This replaces the earlier 2–4 minute target for future batches.
